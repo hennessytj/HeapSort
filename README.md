@@ -5,9 +5,8 @@ for quadratic and linearithmic sorting algorithms.  Insertionsort and heapsort a
 performance is measured sorting primitive types versus sorting reference types.  
 
 Includes:
-Heapsort
-    -primitive version
-    -generic version (sort anything implementing comparable)
-Insertionsort
-    -primitive version
-    -generic version (sort anything implementing comparable)
+Heapsort -primitive version
+Heapsort -generic version (sort anything implementing comparable)
+
+Insertionsort -primitive version
+Insertionsort -generic version (sort anything implementing comparable)
